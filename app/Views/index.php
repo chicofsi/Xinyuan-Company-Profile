@@ -65,7 +65,7 @@
                             <li><a href="#" class="menu-item">Administration</a></li>
                             <li><a href="#" class="menu-item">News</a></li>
                             <li><a href="#" class="menu-item">Careers</a></li>
-                            <li><a href="#" class="menu-item">Contact Us</a></li>
+                            <li><a href="<?php echo base_url(); ?>/contactus" class="menu-item">Contact Us</a></li>
                         </ul>
                         <!-- ***** Menu End ***** -->
                     </nav>
