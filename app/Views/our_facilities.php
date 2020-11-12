@@ -41,14 +41,15 @@
                         </li>
                         <div class="img-menu">
                             <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 30px">
-                                <a href="#" style="margin-top: 20px">Company Profile
-                                <i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
+                                <a href="#" style="margin-top: 20px">Company Profile<i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
                         </div>
 
                         <div class="img-menu">
                             <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 20px">
-                                <a href="#" style="margin-top: 20px">Our Product
-                                <i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
+                                <a href="#" style="margin-top: 20px">Our Product<i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
+                                <p style="">
+                                    Our skilled teams are dedicated and ready to make it done on time and on budget
+                                </p>
                         </div>
                     </ul>
                 </nav>
@@ -59,25 +60,35 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="img-big">
-                            <img style="width: 100%; max-height:200px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
+                            <img style="width: 100%; max-height:400px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
                         </div>
                     </div>
                 </div>                    
 
                 <div class="row">
                     <div class="col-lg-6">
-                        <h3>
+                        <h3 style="margin-top:30px">
                             Production Yards
                         </h3>
-                        <hr>
+                        <hr height="12px">
+                        <p>
+                            <strong>
+                                Bonded Area - 
+                            </strong>
+                        </p>
                         <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
                     </div>
 
                     <div class="col-lg-6">
-                        <h3>
+                        <h3 style="margin-top:30px">
                             Workshops
                         </h3>
                         <hr>
+                        <p>
+                            <strong>
+                            Machining Workshop -
+                            </strong>
+                        </p>
                     <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
                     </div>
                 </div>
