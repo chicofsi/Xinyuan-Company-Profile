@@ -23,7 +23,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin-top:160px">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -45,7 +45,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
                     <img class="img-menu" src="images/slider1.jpg">
-                    <span>Company Profile</span>
+                    <h4>Company Profile</h4>
                     <p>find out more about us and our vision</p>
                     
                 </div>
@@ -53,7 +53,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
                     <img class="img-menu" src="images/slider1.jpg">
-                    <span>Our Product</span>
+                    <h4>Our Product</h4>
                     <p>we serve plastics supply and tarpaulin products</p>
                     
                 </div>
@@ -61,7 +61,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
                     <img class="img-menu" src="images/slider1.jpg">
-                    <span>Our Facilities</span>
+                    <h4>Our Facilities</h4>
                     <p>our facilities continues to develop to meet our customers requirements</p>
                     
                 </div>
@@ -69,7 +69,7 @@
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
                     <img class="img-menu" src="images/slider1.jpg">
-                    <span>Major Project</span>
+                    <h4>Major Project</h4>
                     <p>highlight and our track record to assure you of our capabilities</p>
                     
                 </div>
