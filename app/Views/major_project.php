@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <?= $this->include('template/meta') ?>
-    <title>News & Career - Diamond</title>
+    <title>Major Project - Diamond</title>
     <?= $this->include('template/style') ?>
 </head>
 

@@ -40,12 +40,12 @@
                             </div>
                         </li>
                         <div class="img-menu">
-                            <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 30px">
+                            <img width="100%"src="images/company-profile-image.png" alt="Photos not already" style="margin-top: 30px">
                                 <a href="#" style="margin-top: 20px">Company Profile<i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
                         </div>
 
                         <div class="img-menu">
-                            <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 20px">
+                            <img width="100%"src="images/tarpaulin4.png" alt="Photos not already" style="margin-top: 20px">
                                 <a href="#" style="margin-top: 20px">Our Product<i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
                                 <p style="">
                                     Our skilled teams are dedicated and ready to make it done on time and on budget
@@ -60,7 +60,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="img-big">
-                            <img style="width: 100%; max-height:400px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
+                            <img style="width: 100%; max-height:400px; object-fit: cover;" src="images/tarpaulin4.png" alt="photo not already">
                         </div>
                     </div>
                 </div>                    
@@ -76,7 +76,7 @@
                                 Bonded Area - 
                             </strong>
                         </p>
-                        <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
+                        <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/bonded-area.jpg" alt="photo not already">
                     </div>
 
                     <div class="col-lg-6">
@@ -89,7 +89,7 @@
                             Machining Workshop -
                             </strong>
                         </p>
-                    <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
+                    <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/machining-workshop.jpg" alt="photo not already">
                     </div>
                 </div>
             </div>

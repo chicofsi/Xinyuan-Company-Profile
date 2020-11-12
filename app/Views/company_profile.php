@@ -31,7 +31,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img class="d-block w-100 img-slider" src="images/slider1.jpg" alt="First slide">
+                        <img class="d-block w-100 img-slider" src="images/icon xinyuan.png" alt="First slide">
                         </div>
                         <div class="carousel-item">
                         <img class="d-block w-100 img-slider" src="images/slider2.jpg" alt="Second slide">
@@ -44,7 +44,7 @@
         <div class="row" style="margin-top:50px;">
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
-                    <img class="img-menu" src="images/slider1.jpg">
+                    <img class="img-menu" src="images/company-profile-image.png">
                     <h4>Company Profile</h4>
                     <p>find out more about us and our vision</p>
                     
@@ -52,7 +52,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
-                    <img class="img-menu" src="images/slider1.jpg">
+                    <img class="img-menu" src="images/tarpaulin1.png">
                     <h4>Our Product</h4>
                     <p>we serve plastics supply and tarpaulin products</p>
                     
@@ -60,7 +60,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
-                    <img class="img-menu" src="images/slider1.jpg">
+                    <img class="img-menu" src="images/xinyuan.jpg">
                     <h4>Our Facilities</h4>
                     <p>our facilities continues to develop to meet our customers requirements</p>
                     
@@ -68,7 +68,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
-                    <img class="img-menu" src="images/slider1.jpg">
+                    <img class="img-menu" src="images/tarpaulin2.png">
                     <h4>Major Project</h4>
                     <p>highlight and our track record to assure you of our capabilities</p>
                     

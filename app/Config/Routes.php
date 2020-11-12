@@ -38,6 +38,10 @@ $routes->get('/company', 'CompanyProfile::index');
 $routes->get('/facilities', 'OurFacilities::index');
 $routes->get('/career', 'NewsCareer::index');
 $routes->get('/product', 'OurProduct::index');
+$routes->get('/project', 'MajorProject::index');
+$routes->get('/administration', 'Administration::index');
+
+
 
 
 
