@@ -27,7 +27,7 @@
                             <i class="fa fa-map-marker" aria-hidden="true"></i></div>
                             <div class = "text">
                                 <h3>Address</h3>
-                                <p>Jalan Cengkeh, Jakarta Utara, <br>Pluit,</br>14045</p>
+                                <p>Jl. Darmo Permai Selatan IV/10, <br>Pradahkalikendal, Kec. Dukuh Pakis</br>Surabaya</p>
                             </div>
                         </div>
                         <div class = "box">
@@ -35,14 +35,14 @@
                             <i class="fa fa-phone-square" aria-hidden="true"></i></div>
                             <div class = "text">
                                 <h3>Phone</h3>
-                                <p>0838 861 9584</p>
+                                <p>031-9914 1650</p>
                             </div>
                         </div>
                         <div class = "box">
                             <div class = "icon"><i class="fa fa-envelope" aria-hidden="true"></i></div>
                             <div class = "text">
                                 <h3>Email</h3>
-                                <p>putraswa@gmail.com</p>
+                                <p>xinyuansby@gmail.com</p>
                             </div>
                         </div>
                     </div>
