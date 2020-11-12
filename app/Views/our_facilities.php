@@ -15,7 +15,7 @@
 
     <div class="container" style="margin-top: 150px">
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-3">
                 <nav class="sidebar">
                     <div class="text">Our Facilities</div>
                     <ul>
@@ -39,7 +39,6 @@
                                 </ul>
                             </div>
                         </li>
-                        
                         <div class="img-menu">
                             <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 30px">
                                 <a href="#" style="margin-top: 20px">Company Profile
@@ -56,13 +55,35 @@
 
             </div>
             
-            <div class="col-lg-8">
-                <div class="container">
-                    <div class="img-big">
-                        <img width="100%" src="images/slider2.jpg" alt="photo not already">
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="img-big">
+                            <img style="width: 100%; max-height:200px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
+                        </div>
+                    </div>
+                </div>                    
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <h3>
+                            Production Yards
+                        </h3>
+                        <hr>
+                        <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
+                    </div>
+
+                    <div class="col-lg-6">
+                        <h3>
+                            Workshops
+                        </h3>
+                        <hr>
+                    <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/slider2.jpg" alt="photo not already">
                     </div>
                 </div>
             </div>
+
+
 
         </div>
     </div>
