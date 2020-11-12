@@ -19,44 +19,55 @@
                 <nav class="sidebar">
                     <div class="text">Our Facilities</div>
                     <ul>
-                        <li>
-                            <a href="#" class="production-yards-btn"></i>Production Yards
+                    <li>
+                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#production-yards-show" aria-expanded="false" aria-controls="production-yards-show"></i>Production Yards
                             <i class="fa fa-angle-right first" aria-hidden="true" style="margin-right: 10px"></i></a>
-                            <ul class="production-yards-show">
-                            <li><a href="#">Menu 1</a></li>
-                            <li><a href="#">Menu 2</a></li>
-                            </ul>
+                            <div class="collapse multi-collapse" id="production-yards-show">
+                                <ul>
+                                    <li><a href="#">Menu 1</a></li>
+                                    <li><a href="#">Menu 2</a></li>
+                                </ul>
+                            </div>
                         </li>
-
                         <li>
-                            <a href="#" class="production-yards-btn">Workshops
-                            <i class="fa fa-angle-right second" aria-hidden="true" style="margin-right: 10px"></i></a>
-                            <ul>
-                            <li><a href="#">Menu 1</a></li>
-                            <li><a href="#">Menu 2</a></li>
-                            </ul>
-                        </li>
-                            
+                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#workshops-show" aria-expanded="false" aria-controls="workshops-show"></i>Workshops
+                            <i class="fa fa-angle-right first" aria-hidden="true" style="margin-right: 10px"></i></a>
+                            <div class="collapse multi-collapse" id="workshops-show">
+                                <ul>
+                                    <li><a href="#">Menu 1</a></li>
+                                    <li><a href="#">Menu 2</a></li>
+                                </ul>
+                            </div>
                         </li>
                         
                         <div class="img-menu">
-                        <img src="images/slider1.jpg" alt="Photos not already">
+                            <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 30px">
+                                <a href="#" style="margin-top: 20px">Company Profile
+                                <i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
                         </div>
-                        
+
+                        <div class="img-menu">
+                            <img width="100%"src="images/slider1.jpg" alt="Photos not already" style="margin-top: 20px">
+                                <a href="#" style="margin-top: 20px">Our Product
+                                <i class="fa fa-angle-right first" aria-hidden="true" style="margin-left: 10px"></i></a>
+                        </div>
                     </ul>
-
-                   
-
                 </nav>
+
             </div>
+            
+            <div class="col-lg-8">
+                <div class="container">
+                    <div class="img-big">
+                        <img width="100%" src="images/slider2.jpg" alt="photo not already">
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 
-<script>
-    $('.production-yards-btn').click(function(){
-        sidebar
-    });
-</script>
 
+    <?= $this->include('template/script') ?>
 </body>
 </html>

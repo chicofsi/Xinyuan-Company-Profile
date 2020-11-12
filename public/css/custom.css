@@ -204,7 +204,6 @@ Header
 
 .sidebar ul li{
   line-height: 30px;
-  border-bottom: 1.5px solid black;
 }
 
 .sidebar ul li a{
@@ -227,7 +226,10 @@ Header
 
 .sidebar ul ul{
   position: static;
-  display: none;
+}
+
+.sidebar ul .production-yards-show.show{
+  display: block !important;
 }
 
 .sidebar ul li a i{
@@ -237,6 +239,10 @@ Header
   font-size: 22px;
   transform: translateY(0%);
   transition: transform 0.4ms;
+}
+
+.sidebar ul ul{
+  border-bottom: 0px;
 }
 
 .sidebar ul li a:hover i{
