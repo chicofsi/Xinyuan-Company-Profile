@@ -27,7 +27,7 @@
                             <i class="fa fa-map-marker" aria-hidden="true"></i></div>
                             <div class = "text">
                                 <h3>Address</h3>
-                                <p>Jl. Darmo Permai Selatan IV/10, <br>Pradahkalikendal, Kec. Dukuh Pakis</br>Surabaya</p>
+                                <p>PT XIN YUAN INDUSTRY <br>Jl. Cengkeh Dalam Blok B22 No.6, <br>Kec. Pinangsia, Kab. Taman Sari - Kota Tua</br>Indonesia - 11110</p>
                             </div>
                         </div>
                         <div class = "box">
@@ -35,7 +35,7 @@
                             <i class="fa fa-phone-square" aria-hidden="true"></i></div>
                             <div class = "text">
                                 <h3>Phone</h3>
-                                <p>031-9914 1650</p>
+                                <p>+62-21-2252-6517</p>
                             </div>
                         </div>
                         <div class = "box">

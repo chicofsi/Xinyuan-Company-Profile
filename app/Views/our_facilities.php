@@ -20,7 +20,7 @@
                     <div class="text">Our Facilities</div>
                     <ul>
                     <li>
-                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#production-yards-show" aria-expanded="false" aria-controls="production-yards-show"></i>Production Yards
+                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#production-yards-show" aria-expanded="false" aria-controls="production-yards-show">Production Yards
                             <i class="fa fa-angle-right first" aria-hidden="true" style="margin-right: 10px"></i></a>
                             <div class="collapse multi-collapse" id="production-yards-show">
                                 <ul>
@@ -30,7 +30,7 @@
                             </div>
                         </li>
                         <li>
-                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#workshops-show" aria-expanded="false" aria-controls="workshops-show"></i>Workshops
+                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#workshops-show" aria-expanded="false" aria-controls="workshops-show">Workshops
                             <i class="fa fa-angle-right first" aria-hidden="true" style="margin-right: 10px"></i></a>
                             <div class="collapse multi-collapse" id="workshops-show">
                                 <ul>
