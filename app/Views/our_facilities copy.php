@@ -20,7 +20,7 @@
                     <div class="text">Our Facilities</div>
                     <ul>
                     <li>
-                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#production-yards-show" aria-expanded="false" aria-controls="production-yards-show">Production Yards
+                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#production-yards-show" aria-expanded="false" aria-controls="production-yards-show"></i>Production Yards
                             <i class="fa fa-angle-right first" aria-hidden="true" style="margin-right: 10px"></i></a>
                             <div class="collapse multi-collapse" id="production-yards-show">
                                 <ul>
@@ -30,7 +30,7 @@
                             </div>
                         </li>
                         <li>
-                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#workshops-show" aria-expanded="false" aria-controls="workshops-show">Workshops
+                            <a type="button" style="padding:5px" data-toggle="collapse" data-target="#workshops-show" aria-expanded="false" aria-controls="workshops-show"></i>Workshops
                             <i class="fa fa-angle-right first" aria-hidden="true" style="margin-right: 10px"></i></a>
                             <div class="collapse multi-collapse" id="workshops-show">
                                 <ul>
@@ -60,7 +60,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="img-big">
-                            <img style="width: 100%; max-height:400px; object-fit: cover;" src="images/workshop6.jpg" alt="photo not already">
+                            <img style="width: 100%; max-height:400px; object-fit: cover;" src="images/tarpaulin4.png" alt="photo not already">
                         </div>
                     </div>
                 </div>                    
@@ -76,10 +76,7 @@
                                 Bonded Area - 
                             </strong>
                         </p>
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop1.jpg" alt="photo not already">
-                        <p style="margin-top: 20px">
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop2.jpg" alt="photo not already"> 
-                        </p>
+                        <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/bonded-area.jpg" alt="photo not already">
                     </div>
 
                     <div class="col-lg-6">
@@ -92,22 +89,7 @@
                             Machining Workshop -
                             </strong>
                         </p>
-                    <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop5.jpg" alt="photo not already">
-                    <p style="margin-top: 20px">
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop3.jpg" alt="photo not already"> 
-                    </p>
-                    <p style="margin-top: 20px">
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop4.jpg" alt="photo not already"> 
-                    </p>
-                    <p style="margin-top: 20px">
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop6.jpg" alt="photo not already"> 
-                    </p>
-                    <p style="margin-top: 20px">
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop7.jpg" alt="photo not already"> 
-                    </p>
-                    <p style="margin-top: 20px">
-                        <img style="width: 100%; max-height:150px; object-fit: cover;" src="images/workshop8.jpg" alt="photo not already"> 
-                    </p>
+                    <img style="width: 100%; max-height:100px; object-fit: cover;" src="images/machining-workshop.jpg" alt="photo not already">
                     </div>
                 </div>
             </div>

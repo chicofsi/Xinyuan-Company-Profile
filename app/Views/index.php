@@ -28,13 +28,21 @@
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img class="d-block w-100 img-slider" src="images/xinyuan.jpg" alt="First slide">
+                        <img class="d-block w-100 img-slider" src="images/home3.jpg" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                        <img class="d-block w-100 img-slider" src="images/tarpaulin4.png" alt="Second slide">
+                        <img class="d-block w-100 img-slider" src="images/home1.jpg" alt="Second slide">
+                        </div>
+                        <div class="carousel-item">
+                        <img class="d-block w-100 img-slider" src="images/home2.jpg" alt="Second slide">
+                        </div>
+                        <div class="carousel-item">
+                        <img class="d-block w-100 img-slider" src="images/home4.jpg" alt="Second slide">
                         </div>
                     </div>
                     
@@ -60,7 +68,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                 <div class="tab-menu">
-                    <img class="img-menu" src="images/xinyuan.jpg">
+                    <img class="img-menu" src="images/workshop1.jpg">
                     <span>Our Facilities</span>
                     <p>our facilities continues to develop to meet our customers requirements</p>
                     

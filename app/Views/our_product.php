@@ -76,6 +76,9 @@
                 </div>               
         </div>
     </div>
+
+    <?= $this->include('template/script') ?>
+
     
 </body>
 </html>
